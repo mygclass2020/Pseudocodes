@@ -1,0 +1,16 @@
+Procedure MaximumOfThreeNumbers
+
+Input a,b,c
+
+If (a>b) AND (a>c)
+    largest=a
+
+ELSE IF (b>a) AND (b>c)
+    largest=b
+
+ELSE
+    largest=c
+
+print largest
+
+End Procedure
