@@ -1,0 +1,11 @@
+Procedure CheckEvenOrOdd
+
+Input a
+
+IF a mod 2 == 0
+    PRINT a is even
+
+ELSE
+    PRINT a is odd
+
+End Procedure
