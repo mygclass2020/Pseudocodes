@@ -1,0 +1,10 @@
+Procedure SwapNumbers
+
+  Input a,b
+  var x
+  x=a
+  a=b
+  b=x
+  print a, b
+
+End Procedure
