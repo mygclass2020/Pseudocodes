@@ -1,0 +1,7 @@
+Procedure AreaOfRectangle
+
+  Input width, height
+  area = width * height
+  print area
+
+End Procedure
