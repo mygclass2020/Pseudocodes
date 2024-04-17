@@ -1,0 +1,14 @@
+Procedure FibonacciSeries
+    Input: limit (upper limit for Fibonacci series)
+    
+    Var a=1, b=1, i=2
+    PRINT a
+    PRINT b
+    WHILE i < limit
+        c = a + b
+        a = b
+        b = c
+        i++
+        PRINT c
+
+End Procedure
