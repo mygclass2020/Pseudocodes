@@ -1,0 +1,13 @@
+Procedure SquareRoot
+    Input: num (a positive number)
+
+    let d = b * b - 4 * a * c
+    if d < 0 then
+        print "No real roots"
+    else if d = 0 then
+        print "Root is: "; -b / (2 * a);
+    else
+        print "Roots are: "; (-b + sqrt ( d )) / (2 * a); " and "; (-b - sqrt ( d )) / (2 * a);
+    end if
+
+End Procedure
