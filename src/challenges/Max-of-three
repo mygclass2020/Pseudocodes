@@ -1,16 +1,19 @@
-Procedure MaximumOfThreeNumbers
+Day 2 - Write a pseudocode to find the maximum of three numbers
 
-Input a,b,c
 
-If (a>b) AND (a>c)
-    largest=a
+        Procedure MaximumOfThreeNumbers
 
-ELSE IF (b>a) AND (b>c)
-    largest=b
+        Input a,b,c
 
-ELSE
-    largest=c
+        IF (a>b) AND (a>c)
+            largest=a
 
-print largest
+        ELSE IF (b>a) AND (b>c)
+            largest=b
 
-End Procedure
+        ELSE
+            largest=c
+
+        print largest
+
+        End Procedure

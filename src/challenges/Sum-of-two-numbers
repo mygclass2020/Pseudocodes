@@ -1,6 +1,8 @@
-Procedure SumOfTwoNumbers
-input a
-input b
-sum = a + b
-print sum
-End Procedure
+Day 1 - Write a pseudocode to find the sum of two numbers
+
+        Procedure SumOfTwoNumbers
+        input a
+        input b
+        sum = a + b
+        print sum
+        End Procedure

@@ -1,11 +1,14 @@
-Procedure Factorial
+Day 4 - Write a pseudocode to calculate the factorial of a number
 
-input num
 
-if num == 0
-    return 1
+        Procedure Factorial
 
-else
-    return num * factorial(num-1)
+        input num
 
-End Procedure
+        if num == 0
+            return 1
+
+        else
+            return num * factorial(num-1)
+
+        End Procedure

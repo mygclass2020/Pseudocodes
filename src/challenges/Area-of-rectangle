@@ -1,7 +1,10 @@
-Procedure AreaOfRectangle
+Day 7 - Write a pseudocode to calculate the area of a rectangle
 
-  Input width, height
-  area = width * height
-  print area
 
-End Procedure
+    Procedure AreaOfRectangle
+
+      Input width, height
+      area = width * height
+      print area
+
+    End Procedure

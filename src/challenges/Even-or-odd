@@ -1,11 +1,14 @@
-Procedure CheckEvenOrOdd
+Day 3 - Write a pseudocode to check if a number is even or odd
 
-Input a
 
-IF a mod 2 == 0
-    PRINT a is even
+        Procedure CheckEvenOrOdd
 
-ELSE
-    PRINT a is odd
+        Input a
 
-End Procedure
+        IF a mod 2 == 0
+            PRINT a is even
+
+        ELSE
+            PRINT a is odd
+
+        End Procedure

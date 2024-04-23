@@ -1,10 +1,13 @@
-Procedure SwapNumbers
+Day 6 - Write a pseudocode to swap two numbers
 
-  Input a,b
-  var x
-  x=a
-  a=b
-  b=x
-  print a, b
 
-End Procedure
+    Procedure SwapNumbers
+
+      Input a,b
+      var x
+      x=a
+      a=b
+      b=x
+      print a, b
+
+    End Procedure
